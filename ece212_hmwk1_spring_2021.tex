@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{mathtools}
+\usepackage{ulem}
 \usepackage[dvipsnames]{xcolor}
 \newenvironment{ppl}{\fontfamily{ppl}\selectfont}{\par}
 \renewcommand{\thesubsection}{\alph{subsection})}
@@ -232,11 +233,10 @@ Show all work. Assume 8-bit binary values.
 }
 \subsection{}
 \begin{gather*}
-(-15_{10} -6_{10}) = \\ \\
+(-15_{10} -6_{10}) \\ \\
 -(15 = (1^8 + 1^4 + 1^2 + 1^1) = 1111) \\
 \underline{-(6 = (0^8 + 1^4 + 1^2 + 0^1) = 0110)}\\ \\
 \begin{split}
-\colorbox{orange}{1100}\\
 -1111_2\\ \underline{-110_2}\\
 -1\ 0101
 \end{split} \\ \\
@@ -247,16 +247,19 @@ Show all work. Assume 8-bit binary values.
 \end{gather*}
 
 \subsection{}
-\begin{equation}
-	\begin{split}
-		32\\  \underline{-12}
-	\end{split}
-\end{equation}
+\begin{gather*}
+(32_{10} - 12_{10}) \\ \\
+	(32 = (1^32 + 0^16 + 0^8 + 0^4 + 0^2 + 0^1) = 100000_2) \\
+	\underline{-(12 = (1^8 + 1^4 + 0^2 + 0^1) = 1100_2)} \\ \\
+	100000_2\\ \underline{-1100_2}\\ \\
+	-001100_2 = (110011_2 + 1) = 110100_2 \\ \\
+	100000_2\\ \underline{110100_2}\\1010100_2 \\ \\ 
+	\text{\sout{1}010100_2}\\ \\
+	10100_2 \\ \\
+	(1^{16} + 0^8 + 1^4 + 0^2 + 0^1) = 20
+\end{gather*}
 \subsection{}
-\begin{equation}
-	\begin{split}
-		-103\\  \underline{-88}
-	\end{split}
-\end{equation}
+\begin{gather*}
+(-103_{10}- 88_{10})\\ \\-(103 = (1^{64} + 1^{32} + 0^{16} + 0^8 + 1^4 + 1^2 + 1^1) = 1100111_2) \\-(88 = (1^{64} + 0^{32} + 1^{16} + 1^8 + 0^4 + 0^2 + 0^1) = 1011000_2)\\ \\1100111_2 \\\underline{1011000_2}\\ 10111111_2 \end{gather*}
 
 \end{document}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.19)  22 JAN 2021 13:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.19)  22 JAN 2021 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,6 +500,18 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \xmathstrut@box=\box50
 \xmathstrut@dim=\dimen160
 )
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box51
+\UL@hyphenbox=\box52
+\UL@skip=\skip66
+\UL@hook=\toks23
+\UL@height=\dimen161
+\UL@pe=\count199
+\UL@pixel=\dimen162
+\ULC@box=\box53
+Package: ulem 2019/11/18
+\ULdepth=\dimen163
+)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -539,362 +551,362 @@ LaTeX Warning: Command \underline  has changed.
 File: l3backend-xetex.def 2021-01-09 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count199
-\l__kernel_color_stack_int=\count266
-\g__graphics_track_int=\count267
-\l__pdf_internal_box=\box51
-\g__pdf_backend_object_int=\count268
-\g__pdf_backend_annotation_int=\count269
-\g__pdf_backend_link_int=\count270
+\c__kernel_sys_dvipdfmx_version_int=\count266
+\l__kernel_color_stack_int=\count267
+\g__graphics_track_int=\count268
+\l__pdf_internal_box=\box54
+\g__pdf_backend_object_int=\count269
+\g__pdf_backend_annotation_int=\count270
+\g__pdf_backend_link_int=\count271
 ) (./ece212_hmwk1_spring_2021.aux)
 \openout1 = `ece212_hmwk1_spring_2021.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-6.
+7.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 27.
 LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 2
-6.
+7.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    ... okay on input line 27.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 26.
+(lastpage)             ! on input line 27.
 
-Overfull \hbox (7.01973pt too wide) in paragraph at lines 34--35
+Overfull \hbox (7.01973pt too wide) in paragraph at lines 35--36
 \T1/fav/m/n/12 This home-work as-sign-ment re-views ba-sic con-cepts re-lated t
 o num-
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+zavm on input line 
-36.
+37.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/arev/ot1zavm.fd
 File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
 )
 LaTeX Font Info:    Trying to load font information for OML+zavm on input line 
-36.
+37.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/arev/omlzavm.fd
 File: omlzavm.fd 2006/05/30 Fontinst v1.929 font definitions for OML/zavm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zavm on input line 
-36.
+37.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/arev/omszavm.fd
 File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
- 36.
+ 37.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 36.
+(Font)              scaled to size 11.52008pt on input line 37.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 36.
+(Font)              scaled to size 8.64006pt on input line 37.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 36.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
+(Font)              scaled to size 6.72005pt on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
- 36.
+ 37.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 36.
+(Font)              scaled to size 11.52008pt on input line 37.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 36.
+(Font)              scaled to size 8.64006pt on input line 37.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 36.
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 36
+(Font)              scaled to size 6.72005pt on input line 37.
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 37
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 )
 LaTeX Font Info:    Trying to load font information for T1+wesa on input line 4
-0.
+1.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/schulschriften/t1wesa.fd)
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 19.91054pt on input line 40.
+(Font)              scaled to size 19.91054pt on input line 41.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 13.82408pt on input line 40.
+(Font)              scaled to size 13.82408pt on input line 41.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 19.91054pt on input line 40.
+(Font)              scaled to size 19.91054pt on input line 41.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 13.82408pt on input line 40.
+(Font)              scaled to size 13.82408pt on input line 41.
 LaTeX Font Info:    Trying to load font information for TS1+fav on input line 4
-4.
-LaTeX Font Info:    No file TS1fav.fd. on input line 44.
+5.
+LaTeX Font Info:    No file TS1fav.fd. on input line 45.
 
 
 LaTeX Font Warning: Font shape `TS1/fav/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 44.
+(Font)              for symbol `textbullet' on input line 45.
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 61.
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 62.
 
 [1
 
 ]
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 90.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 91.
 
 [2]
-Overfull \hbox (4.66791pt too wide) in paragraph at lines 92--92
+Overfull \hbox (4.66791pt too wide) in paragraph at lines 93--93
 []\T1/fav/b/n/12 [6 pts each] Per-form the fol-low-ing number-system con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--104
+Underfull \hbox (badness 10000) in paragraph at lines 95--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--111
+Underfull \hbox (badness 10000) in paragraph at lines 106--112
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 111.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 112.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 112--117
+Underfull \hbox (badness 10000) in paragraph at lines 113--118
 
  []
 
 
-Overfull \hbox (9.139pt too wide) in paragraph at lines 118--118
+Overfull \hbox (9.139pt too wide) in paragraph at lines 119--119
 []\T1/fav/b/n/12 20 points to-tal, 10 points each] Signed Mag-ni-tude, Two's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--130
+Underfull \hbox (badness 10000) in paragraph at lines 122--131
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 130.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 131.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 142.
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 143.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--152
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 161.
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 162.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--172
+Underfull \hbox (badness 10000) in paragraph at lines 167--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--172
+Underfull \hbox (badness 10000) in paragraph at lines 167--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--172
+Underfull \hbox (badness 10000) in paragraph at lines 167--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--172
+Underfull \hbox (badness 10000) in paragraph at lines 167--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--172
+Underfull \hbox (badness 10000) in paragraph at lines 167--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 182.
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 183.
 
 [7]
 
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 226.
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 227.
 
 [8]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.235 
-      
+l.260 \end{gather*}
+                   
 ? X
  
 Here is how much of TeX's memory you used:
- 4497 strings out of 477220
- 63870 string characters out of 5830449
- 359962 words of memory out of 5000000
- 24115 multiletter control sequences out of 15000+600000
- 447796 words of font info for 84 fonts, out of 8000000 for 9000
+ 4577 strings out of 477220
+ 64728 string characters out of 5830449
+ 361169 words of memory out of 5000000
+ 24190 multiletter control sequences out of 15000+600000
+ 447902 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  82i,18n,88p,721b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 Output written on ece212_hmwk1_spring_2021.pdf (8 pages).
