@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{mathtools}
+\usepackage[dvipsnames]{xcolor}
 \newenvironment{ppl}{\fontfamily{ppl}\selectfont}{\par}
 \renewcommand{\thesubsection}{\alph{subsection})}
 \renewcommand{\thesubsubsection}{\roman{subsubsection})}
@@ -167,56 +168,96 @@ $01000111$ to $10111000$ \\ \\
 Add a unity for a Two's compliment \\ \\
 Adding one to low order bit. \\ \\
 $10111000_2 + 1 = 10111001_2$ \\ \\
-$10111001_2 = 71_{10} 
-\clearpage
+$10111001_2 = 71_{10}$
 \section{[26 points total, 6.5 points each] Two's Complement Addition}
 Perform the following addition operations using 8-bit two's complement representations.
 \begin{enumerate}[label=(\roman*)]
 \item Indicate if there was overflow
 \item Also, explain the criterion you used to determine whether of not there was overflow.
 \end{enumerate}
-[Show your work for full credit].
+[Show your work for full credit]. \\ \\
+\begin{itemize}
+\item \colorbox{orange}{number carries are in orange} 
+\item \colorbox{red}{overflow is in red}
+\end{itemize}
 \subsection{}
+Addends signs and result are all negative therefore no overflow.\\
+$(C_{in} = C_{out})$
 \begin{equation}
 	\begin{split}
-		1001\ 1001 \\ + \underline{1011\ 1000}
+		\colorbox{orange}{1\ 0111\ 0000} \\ 
+		1001\ 1001 \\ 
+		+ \underline{1011\ 1000}\\
+1\ 0101\ 0001
 	\end{split}
 \end{equation}
 
 \subsection{}
-
+Addends signs are not the same and therefore no overflow.\\
+$(C_{in} = C_{out})$
 \begin{equation}
 	\begin{split}
-		1101\ 1101 \\ + \underline{0111\ 1011}
+		\colorbox{orange}{1\ 1111\ 1110} \\
+		1101\ 1101 \\ + \underline{0111\ 1011}\\
+		1\ 0101\ 1000
 	\end{split}
 \end{equation}
 
 \subsection{}
-
+Addends are the same and the result is opposite and therefore overflow occured. \\
+$(C_{in} \neg C_{out})$
 \begin{equation}
 	\begin{split}
-		0101\ 0001 \\ + \underline{0111\ 1010}
+		\colorbox{orange}{1110\ 0000} \\
+		0101\ 0001 \\ + \underline{0111\ 1010}\\
+		\colorbox{red}{1100\ 1011}
 	\end{split}
 \end{equation}
 
 \subsection{}
+Addends signs and result are all negative therefore no overflow.\\
+$(C_{in} = C_{out})$
 \begin{equation}
 	\begin{split}
-		1101\ 0101 \\ + \underline{1100\ 1000}
+		\colorbox{orange}{1\ 1000\ 0000}\\
+		1101\ 0101 \\ + \underline{1100\ 1000}\\
+		1\ 1001\ 1101 
 	\end{split}
 \end{equation}
 
 \section{
-24 points total, 8 points each] Binary Math
+	[24 points total, 8 points each] Binary Math
 Use two's complement binary math to perform the operations below as a binary addition.
 Show all work. Assume 8-bit binary values.
 }
 \subsection{}
 \begin{equation}
-	\begin{split}
-		-15\\ \underline{-6}
-	\end{split}
+
+%	\begin{split}
+%		-15\\  \underline{-6}
+%	\end{split}
 \end{equation}
+
+%	\begin{split}
+%		-(15 = (1^8 + 1^4 + 1^2 + 1^1) = 1111)\\ \underline{-(6 = (0^8 + 1^4 + 1^2 + 0^1) = 0110}
+%	\end{split}
+
+%	\begin{split}
+%		-1111_2\\ \underline{-110_2}
+%	\end{split}
+%
+%	\begin{split}
+%		\colorbox{orange}{1100}\\
+%		-1111_2\\ \underline{-110_2}\\
+%		-1\ 0101
+%	\end{split}
+%
+%	\begin{split}
+%		-(1^{16} + 0 + 1^{4} + 0 + 1^{1})\\
+%	\end{split}
+	
+	
+
 \subsection{}
 \begin{equation}
 	\begin{split}
